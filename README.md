@@ -1,2 +1,6 @@
-# primeirog_3t
-Nome: Lênin John Lofrano Biancho N°: 17 
+# Terceiro Trimestre
+
+## Identificação
+Lênin - N°:17
+
+## Conteúdo - HTML - CSS - JavaScript
